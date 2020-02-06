@@ -1,4 +1,4 @@
-package com.maven;
+package commm.maven;
 
 import java.util.Scanner;
 class Sweet
@@ -36,7 +36,7 @@ System.out.println("\t\t\t\t"+a[i]);
 }
 }
 }
-public class EpamTask
+public class EpamTask4
 {
 public static void main(String arg[])
 {
